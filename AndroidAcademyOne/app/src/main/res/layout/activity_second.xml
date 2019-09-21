@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".SecondActivity">
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="194dp"
+        android:layout_height="72dp"
+        android:text="Go to first activity"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="39dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
