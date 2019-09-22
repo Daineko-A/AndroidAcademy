@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidAcademyOne</string>
+    <string name="light">Light</string>
+    <string name="textview">TextView</string>
+    <string name="go_to_first_activity">Go to first activity</string>
+    <string name="open_onliner_by">Open onliner.by</string>
 </resources>

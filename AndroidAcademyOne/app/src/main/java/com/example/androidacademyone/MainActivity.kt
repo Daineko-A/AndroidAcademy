@@ -3,6 +3,8 @@ package com.example.androidacademyone
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
+import android.widget.Switch
+import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
